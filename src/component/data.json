@@ -1,0 +1,40 @@
+[
+ {
+     "carType" : "TrendLine 1.0L(P)",
+     "fuelType" : "Pertol",
+     "actionType" : "Automatic",
+     "price" :  "33322"
+ },
+ {
+    "carType" : "TrendLine2 1.0L(P)",
+    "fuelType" : "Diesel",
+    "actionType" : "Automatic",
+    "price" :  "23423111"
+},
+{
+    "carType" : "TrendLine3 1.0L(P)",
+    "fuelType" : "Pertol",
+    "actionType" : "Manual",
+    "price" :  "3342333322"
+},{
+    "carType" : "TrendLine4 1.0L(P)",
+    "fuelType" : "Diesel",
+    "actionType" : "Automatic",
+    "price" :  "884433322"
+},{
+    "carType" : "TrendLine1 1.0L(P)",
+    "fuelType" : "Pertol",
+    "actionType" : "Manual",
+    "price" :  "33322"
+},{
+    "carType" : "TrendLine4 1.0L(P)",
+    "fuelType" : "Pertol",
+    "actionType" : "Automatic",
+    "price" :  "849433322"
+},{
+    "carType" : "TrendLine5 1.0L(P)",
+    "fuelType" : "Diesel",
+    "actionType" : "Manual",
+    "price" :  "38333322"
+}
+]
